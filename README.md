@@ -1,3 +1,3 @@
-# Kokoa Clone 2023 Update
+# Kokoa Clone 2023
 
 HTML & CSS Skills improvment
